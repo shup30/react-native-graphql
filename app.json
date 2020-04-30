@@ -1,0 +1,17 @@
+{
+  "name": "RnGraphql",
+  "displayName": "RnGraphql",
+  "expo": {
+    "name": "RnGraphql",
+    "slug": "RnGraphql",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
